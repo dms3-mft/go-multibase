@@ -1,10 +1,10 @@
 {
   "author": "whyrusleeping",
   "bugs": {
-    "url": "https://github.com/multiformats/go-multibase"
+    "url": "https://github.com/dms3-mft/go-multibase"
   },
   "gx": {
-    "dvcsimport": "github.com/multiformats/go-multibase"
+    "dvcsimport": "github.com/dms3-mft/go-multibase"
   },
   "gxDependencies": [
     {
@@ -27,4 +27,3 @@
   "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
   "version": "0.2.7"
 }
-
